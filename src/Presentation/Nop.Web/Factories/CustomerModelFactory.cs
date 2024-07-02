@@ -609,6 +609,14 @@ public partial class CustomerModelFactory : ICustomerModelFactory
             ItemClass = "customer-orders"
         });
 
+        model.CustomerNavigationItems.Add(new CustomerNavigationItemModel
+        {
+            RouteName = "CustomerTest",
+            Title = await _localizationService.GetResourceAsync("Account.Test"),
+            Tab = (int)CustomerNavigationEnum.Test,
+            ItemClass = "customer-Test"
+        });
+
         var store = await _storeContext.GetCurrentStoreAsync();
         var customer = await _workContext.GetCurrentCustomerAsync();
 
