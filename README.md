@@ -16,31 +16,28 @@
         4. 地址 : 26041宜蘭縣宜蘭市宜科南路15號四樓之二 408室
         5. Map : 
 6. **<span style="text-decoration:underline;">方案介紹 :</span>**
+   提供遠端線上的實務專案及職涯歷程，同時推動現有的蘭恩科技專案進展。方案期間為113學年度下學期，公司地點位於宜蘭科學園區（遠端工作適用）。
+   方案將以NopCommerce電商開源框架為目標及實作標的，掌握GitHub原始碼管理工具的使用，提升遠端工作的自律性和協作能力，並參與實際專案開發，推動NopCommerce專案進展。主要參與內容包括NopCommerce的基礎與進階、GitHub的操作與管理、遠端工作技巧、DotNet Framework的基本原理和應用以及JavaScript與CSS的實作。
+   蘭恩科技強調成員的自律性和高效遠端協作能力。成員需在遠端工作環境中自覺管理時間，完成分配的任務，並積極參與到NopCommerce專案中，實現實際的開發成果。此外，成員需在達到一定里程碑時主動回報工作進展與執行成果，有助於及時了解計畫狀況，並更好地進行評估和彼此提升。
+        
+    本計畫強調專業性與實用性，旨在培養成員在技術領域的專業能力和遠端工作的自律性。通過參與方案，成員將獲得技術知識和寶貴經驗，並為蘭恩科技的專案發展做出貢獻。
+    
+    <p style="text-align: right">
+    如需要更多資訊，請聯繫Email: <a href="mailto:siantingtaiwan@gmail.com">siantingtaiwan@gmail.com</a> | Line : <a href="https://line.me/ti/p/kuEPHs7zVm">siantingtaiwan</a></p>
 
-提供遠端線上的實務專案及職涯歷程，同時推動現有的蘭恩科技專案進展。方案期間為113學年度下學期，公司地點位於宜蘭科學園區（遠端工作適用）。
+    7. **<span style="text-decoration:underline;">實習主軸</span>** :
 
-方案將以NopCommerce電商開源框架為目標及實作標的，掌握GitHub原始碼管理工具的使用，提升遠端工作的自律性和協作能力，並參與實際專案開發，推動NopCommerce專案進展。主要參與內容包括NopCommerce的基礎與進階、GitHub的操作與管理、遠端工作技巧、DotNet Framework的基本原理和應用以及JavaScript與CSS的實作。
-
-蘭恩科技強調成員的自律性和高效遠端協作能力。成員需在遠端工作環境中自覺管理時間，完成分配的任務，並積極參與到NopCommerce專案中，實現實際的開發成果。此外，成員需在達到一定里程碑時主動回報工作進展與執行成果，有助於及時了解計畫狀況，並更好地進行評估和彼此提升。
-
-本計畫強調專業性與實用性，旨在培養成員在技術領域的專業能力和遠端工作的自律性。通過參與方案，成員將獲得技術知識和寶貴經驗，並為蘭恩科技的專案發展做出貢獻。
-
-<p style="text-align: right">
-如需要更多資訊，請聯繫Email: <a href="mailto:siantingtaiwan@gmail.com">siantingtaiwan@gmail.com</a> | Line : <a href="https://line.me/ti/p/kuEPHs7zVm">siantingtaiwan</a></p>
-
-
-
-
-7. **<span style="text-decoration:underline;">實習主軸</span>** : 
     6. **<span style="text-decoration:underline;">NopCommerce 電商框架開源社群技術實作，由認識到架設並參與調整</span>**
-        6. 社群官網 Website : [https://www.nopcommerce.com/en](https://www.nopcommerce.com/en)
-        7. 官方頻道 Youtube : [https://www.youtube.com/@nopcommerce](https://www.youtube.com/@nopcommerce)
-        8. 蘭恩科技 GitHub - 請以此來源Fork分叉出您們的實習版本程式碼 [https://github.com/LangraceTechUniversityCollab/NopCommerceUniversityCollab](https://github.com/LangraceTechUniversityCollab/NopCommerceUniversityCollab)
-        9. 技術背景 : 
-            * 前端語言 : [Html](https://zh.wikipedia.org/zh-tw/HTML)、[Css](https://zh.wikipedia.org/zh-tw/CSS)、[JavaScript](https://zh.wikipedia.org/zh-tw/JavaScript)
-            * 後端語言 : [DotNet](https://zh.wikipedia.org/zh-tw/.NET)、[C#](https://zh.wikipedia.org/zh-tw/C%E2%99%AF)
-            * 資料庫語言 : [MS-SQL](https://zh.wikipedia.org/zh-tw/Microsoft_SQL_Server)
-    7. 使用工具 : 實習前請預先安裝以下五款軟體，並更新到最新版本
+    6. 社群官網 Website : [https://www.nopcommerce.com/en](https://www.nopcommerce.com/en)
+    7. 官方頻道 Youtube : [https://www.youtube.com/@nopcommerce](https://www.youtube.com/@nopcommerce)
+    8. 蘭恩科技 GitHub - 請以此來源Fork分叉出您們的實習版本程式碼 [https://github.com/LangraceTechUniversityCollab/NopCommerceUniversityCollab](https://github.com/LangraceTechUniversityCollab/NopCommerceUniversityCollab)
+    9. 技術背景 : 
+        * 前端語言 : [Html](https://zh.wikipedia.org/zh-tw/HTML)、[Css](https://zh.wikipedia.org/zh-tw/CSS)、[JavaScript](https://zh.wikipedia.org/zh-tw/JavaScript)
+        * 後端語言 : [DotNet](https://zh.wikipedia.org/zh-tw/.NET)、[C#](https://zh.wikipedia.org/zh-tw/C%E2%99%AF)
+        * 資料庫語言 : [MS-SQL](https://zh.wikipedia.org/zh-tw/Microsoft_SQL_Server)
+
+
+8. 使用工具 : 實習前請預先安裝以下五款軟體，並更新到最新版本
         10. Visual Studio 2022 社群版 開發工具[https://visualstudio.microsoft.com/zh-hant/downloads/](https://visualstudio.microsoft.com/zh-hant/downloads/)
         11. Visual Studio - Code 開發工具 \
 [https://code.visualstudio.com/](https://code.visualstudio.com/)
@@ -52,15 +49,15 @@
 [https://learn.microsoft.com/zh-tw/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16](https://learn.microsoft.com/zh-tw/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
         15. Notepad++ 記事本 便利性在於快速檢視程式碼及資料類型 \
 [https://notepad-plus-plus.org/downloads/](https://notepad-plus-plus.org/downloads/)
-8. **<span style="text-decoration:underline;">實習期待技能</span>** :  #可作為期許，亦希望成員能具備以下技能養成之心態預備 
+9. **<span style="text-decoration:underline;">實習期待技能</span>** :  #可作為期許，亦希望成員能具備以下技能養成之心態預備 
     8. 認識及初步理解軟體開發及工作流程，並後續期待職涯發展的技能樹累計思考
     9. 認識及初步理解前端程式碼開發，並嘗試實作於實際專案
     10. 認識及初步理解後端程式碼開發，並嘗試實作於實際專案
     11. 認識及初步理解資料庫管理及資料操作，並嘗試實作於實際專案
     12. 認識及初步理解專案管理及雲端程式碼交付之流程與概念
     13. 認識及初步理解NopComerce開源技術框架，並做出架設及修改調整
-9. **<span style="text-decoration:underline;">推薦學習資源</span>** : w3schools - Learn to Code : [https://www.w3schools.com/](https://www.w3schools.com/)
-10. **<span style="text-decoration:underline;">規劃實習內容</span>** : 
+10. **<span style="text-decoration:underline;">推薦學習資源</span>** : w3schools - Learn to Code : [https://www.w3schools.com/](https://www.w3schools.com/)
+11. **<span style="text-decoration:underline;">規劃實習內容</span>** : 
 
 <table>
   <tr>
