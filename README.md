@@ -1,4 +1,4 @@
-# 113學年度科學園區人才培育補助計畫 v1.0
+# 115學年度科學園區人才培育補助計畫 v1.0
 
 1. **<span style="text-decoration:underline;">場域單位</span>** : 蘭恩科技 [https://www.langracetech.com/](https://www.langracetech.com/\)
 2. **<span style="text-decoration:underline;">方案時數</span>** : 240小時
